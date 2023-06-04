@@ -1,0 +1,42 @@
+import 'package:teya/localization/translation_keys.dart';
+
+const enUs = <String, String>{
+  TranslationKeys.createAccount: "Create an Teya Account",
+  TranslationKeys.provideDetails: "Provide the details below",
+  TranslationKeys.firstName: "First name",
+  TranslationKeys.invalidFirstname: "Invalid First name",
+  TranslationKeys.lastName: "Last name",
+  TranslationKeys.invalidLastname: "Invalid Last name",
+  TranslationKeys.email: "Email",
+  TranslationKeys.invalidEmail: "Invalid Email",
+  TranslationKeys.password: "Password",
+  TranslationKeys.required: "Required",
+  TranslationKeys.invalidPassword: "Invalid Password",
+  TranslationKeys.wakePassword: "Password is weak",
+  TranslationKeys.confirmPassword: "Confirm Password",
+  TranslationKeys.passwwordMismatch: "Password not the same",
+  TranslationKeys.continueWord: "Continue",
+  TranslationKeys.alreadyHaveAccount: "Already have an account? ",
+  TranslationKeys.login: "Login",
+  TranslationKeys.inputDetailsBelow: "Input your details below to continue",
+  TranslationKeys.dontHaveAccount: "Don't have an account? ",
+  TranslationKeys.signUp: "Sign up",
+  TranslationKeys.iHaveAccount: "I have an Teya account",
+  TranslationKeys.armChat: "Teya Chat",
+  TranslationKeys.typeMessageHere: "Type your message here...",
+  TranslationKeys.send: "Send",
+  TranslationKeys.illustratorOneTitle: "Lost in the Melody",
+  TranslationKeys.illustratorOneMsg:
+      "Where the world fades away and only the music remains",
+  TranslationKeys.illustratorTwoTitle: "Tuning into Serenity",
+  TranslationKeys.illustratorTwoMsg:
+      "Let the rhythm guide your soul to a place of tranquility",
+  TranslationKeys.illustratorThreeTitle: "Symphony of Emotions",
+  TranslationKeys.illustratorThreeMsg:
+      "When words fail, let the music speak for your heart",
+  TranslationKeys.yourLanguage: "Your Language",
+  TranslationKeys.otherLanguage: "Other Languages",
+  TranslationKeys.languageSettings: "Language Settings",
+  TranslationKeys.success: "Success",
+  TranslationKeys.languageSettingsUpdated: "Language settings updated",
+};

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "63356892101",
+    "project_id": "teya-b4e97",
+    "storage_bucket": "teya-b4e97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63356892101:android:823cec25dd614d22d011ac",
+        "android_client_info": {
+          "package_name": "com.example.teya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBoYkbw4m_Znb7hSt9-Zz5a6I_c8nvqlo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
