@@ -124,7 +124,7 @@ class _CreateAccountScreenState extends State<CreateAccountScreen> {
                     );
 
                     dynamic val2 =
-                        FieldValidator.validatePassword(value, "weak");
+                        FieldValidator.validatePassword(value, "Password must be 8 - 16 characters and contain both number and letter/special characters");
 
                     if (val1 != null) {
                       return StringConfig.text.invalidPassword;

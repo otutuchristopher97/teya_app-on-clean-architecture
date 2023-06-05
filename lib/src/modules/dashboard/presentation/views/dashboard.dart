@@ -46,6 +46,9 @@ class _DashboardViewState extends State<DashboardView> {
                   )
                 : Column(
                     children: [
+                      const SizedBox(
+                        height: 50,
+                      ),
                       Row(
                         mainAxisAlignment: MainAxisAlignment.spaceBetween,
                         children: [

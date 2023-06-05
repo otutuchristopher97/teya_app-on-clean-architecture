@@ -12,6 +12,6 @@ class AppAssets {
 
 class AppSvgAssets {
   static const String wk_illustrator1 = "assets/images/img1.jpg";
-  static const String wk_illustrator2 = "assets/images/img2.jpg";
+  static const String wk_illustrator2 = "assets/images/img4.jpg";
   static const String wk_illustrator3 = "assets/images/img3.jpg";
 }

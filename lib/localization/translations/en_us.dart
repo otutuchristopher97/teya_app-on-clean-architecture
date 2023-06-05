@@ -12,7 +12,7 @@ const enUs = <String, String>{
   TranslationKeys.password: "Password",
   TranslationKeys.required: "Required",
   TranslationKeys.invalidPassword: "Invalid Password",
-  TranslationKeys.wakePassword: "Password is weak",
+  TranslationKeys.wakePassword: "Password must be 8 - 16 characters and contain both number and letter/special characters",
   TranslationKeys.confirmPassword: "Confirm Password",
   TranslationKeys.passwwordMismatch: "Password not the same",
   TranslationKeys.continueWord: "Continue",
